@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"testing"
 
+	phpstart "github.com/initializ-buildpacks/php-start"
+	"github.com/initializ-buildpacks/php-start/fakes"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	phpstart "github.com/paketo-buildpacks/php-start"
-	"github.com/paketo-buildpacks/php-start/fakes"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

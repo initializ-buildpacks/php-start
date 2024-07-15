@@ -1,5 +1,5 @@
 # PHP Start Cloud Native Buildpack
-## `gcr.io/paketo-buildpacks/php-start`
+## `gcr.io/initializ-buildpacks/php-start`
 
 A Cloud Native Buildpack for running HTTPD, Nginx, and FPM start commands for
 PHP apps.

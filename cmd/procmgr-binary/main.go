@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/exec"
 
-	phpstart "github.com/paketo-buildpacks/php-start"
+	phpstart "github.com/initializ-buildpacks/php-start"
 )
 
 func main() {

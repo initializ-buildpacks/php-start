@@ -3,10 +3,10 @@ package main
 import (
 	"os"
 
+	phpstart "github.com/initializ-buildpacks/php-start"
 	"github.com/paketo-buildpacks/libreload-packit/watchexec"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	phpstart "github.com/paketo-buildpacks/php-start"
 )
 
 func main() {

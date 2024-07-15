@@ -6,11 +6,11 @@ import (
 	"path/filepath"
 	"testing"
 
+	phpstart "github.com/initializ-buildpacks/php-start"
+	"github.com/initializ-buildpacks/php-start/fakes"
 	. "github.com/onsi/gomega"
 	. "github.com/onsi/gomega/gstruct"
 	"github.com/paketo-buildpacks/packit/v2"
-	phpstart "github.com/paketo-buildpacks/php-start"
-	"github.com/paketo-buildpacks/php-start/fakes"
 	"github.com/sclevine/spec"
 )
 

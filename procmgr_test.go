@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"testing"
 
+	phpstart "github.com/initializ-buildpacks/php-start"
 	. "github.com/onsi/gomega"
-	phpstart "github.com/paketo-buildpacks/php-start"
 	"github.com/sclevine/spec"
 )
 
